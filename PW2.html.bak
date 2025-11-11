@@ -114,7 +114,7 @@
       <div class="col-sm-9">
         <select class="form-select" name="department">
           <option value="computer">Computer Engineering</option>
-          <option value="it">Diploma in Information Technology</option>
+          <option value="it">Information Technology</option>
           <option value="mechanical">Mechanical</option>
         </select>
       </div>
@@ -204,3 +204,4 @@
 </body>
 
 </html>
+
